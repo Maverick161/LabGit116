@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Mi banda favorita es: Red Hot Chili Peppers
 Mi segunda banda favorita es: Blink-182
+Mi cantante favorito es: The Weeknd
+=======
+Mi banda favorita es: Red Hot Chili Peppers
+Mi cantante favorito es: The Weeknd
+>>>>>>> 5396a6d5c8212d1788c08f22580e6b75d5a79a84
